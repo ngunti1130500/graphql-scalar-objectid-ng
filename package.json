@@ -1,5 +1,5 @@
 {
-  "name": "graphql-scalar-objectid",
+  "name": "@ngunti1130500/graphql-scalar-objectid-ng",
   "version": "0.1.2",
   "description": "GraphQLObjectId - GraphQL scalar for mongodb ObjectId",
   "main": "lib/scalar-objectid.js",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/isayme/graphql-scalar-objectid.git"
+    "url": "git+https://github.com/ngunti1130500/graphql-scalar-objectid-ng.git"
   },
   "keywords": [
     "graphql",
@@ -24,18 +24,18 @@
     "mongo",
     "mongodb"
   ],
-  "author": "iSayme <isaymeorg@gmail.com>",
+  "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/isayme/graphql-scalar-objectid/issues"
+    "url": "https://github.com/ngunti1130500/graphql-scalar-objectid-ng/issues"
   },
-  "homepage": "https://github.com/isayme/graphql-scalar-objectid#readme",
+  "homepage": "https://github.com/ngunti1130500/graphql-scalar-objectid-ng#readme",
   "devDependencies": {
     "coveralls": "^3.0.7",
     "graphql": "^0.13.0",
     "mocha": "^6.2.1",
     "prettier-standard": "^15.0.1",
-     "nyc": "^14.1.1",
+    "nyc": "^14.1.1",
     "power-assert": "^1.6.1",
     "standard": "^14.3.1"
   },
