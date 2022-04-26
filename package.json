@@ -5,6 +5,7 @@
   "main": "lib/scalar-objectid.js",
   "scripts": {
     "build": "tsc -p .",
+    "publish-now": "npm run build && npm publish",
     "test": "mocha",
     "pretest": "npm run lint",
     "lint": "standard",
