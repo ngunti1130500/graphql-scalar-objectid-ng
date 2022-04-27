@@ -14,10 +14,8 @@
         "moduleResolution": "node",
         "noEmitOnError": true
     },
-    "exclude": [
-        "tests",
+    "exclude": [        
         "lib",
-        "examples"
     ],
     "compileOnSave": true
 }
