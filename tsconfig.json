@@ -13,9 +13,6 @@
         "declaration": true,
         "moduleResolution": "node",
         "noEmitOnError": true
-    },
-    "exclude": [        
-        "lib",
-    ],
+    },    
     "compileOnSave": true
 }
